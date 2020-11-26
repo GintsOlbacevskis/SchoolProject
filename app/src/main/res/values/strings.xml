@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LearningMath</string>
+    <string name="infotext">Izvēlaties, ko mācīsieties</string>
+    <string name="btn1">Saskaitīšana līdz 100</string>
+    <string name="btn2">Saskaitīšana līdz 1000</string>
+    <string name="btn3">Atņemšana līdz 100</string>
+    <string name="btn4">Atņemšana līdz 1000</string>
+    <string name="btn5">Reizināšana līdz 100</string>
+    <string name="btn6">Reizināšana līdz 1000</string>
+    <string name="btn7">Dalīšana līdz 100</string>
+    <string name="btn8">Dalīšana līdz 1000</string>
+    <string name="btn">pārbaudīt</string>
+    <string name="btnRefresh">JAUNS</string>
+    <string name="btnBack">ATPAKAĻ</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="reiz">*</string>
+    <string name="dala">/</string>
+    <string name="ir">=</string>
+
+    <string name="saskaitisana1">Saskaitāmais</string>
+    <string name="saskaitisana2">Saskaitāmais</string>
+    <string name="summa">Summa</string>
+    <string name="saskaitisanaText">Saskaitīšana līdz</string>
+
+    <string name="mazinamais">Mazināmais</string>
+    <string name="mazinatajs">Mazinātājs</string>
+    <string name="starpiba">Starpība</string>
+    <string name="atnemsanaText">Atņemšana līdz</string>
+
+    <string name="reizinatajs1">Reizinātājs</string>
+    <string name="reizinatajs2">Reizinātājs</string>
+    <string name="reizinajums">Reizinājums</string>
+    <string name="reizinasanaText">Reizināšana līdz</string>
+
+    <string name="dalamais">Dalāmais</string>
+    <string name="dalitajs">Dalītājs</string>
+    <string name="dalijums">Dalījums</string>
+    <string name="dalisanaText">Dalīšana līdz</string>
+
+</resources>

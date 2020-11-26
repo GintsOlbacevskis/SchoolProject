@@ -55,6 +55,7 @@ public class Dalisana extends AppCompatActivity {
         dalitajsRandom = new Random();
         dalitajsI = (dalitajsRandom.nextInt(count) + 1);
         dalitajs = list.get(dalitajsI);
+        dalijums = dalamais / dalitajs;
 
         TextView dalamaisText = (TextView) findViewById(R.id.textView56);
         dalamaisText.setText(String.valueOf(dalamais));
